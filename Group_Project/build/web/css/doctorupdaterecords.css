@@ -1,0 +1,158 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 2, 2025, 5:15:01 PM
+    Author     : Fawas
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: url('../image/logo9.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #333;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  animation: fadeInBody 1s ease-out;
+}
+.container {
+  width: 90%;
+  max-width: 600px;
+  margin: 3rem auto;
+  background: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+header {
+  padding: 1rem 1rem;            
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+   background: rgba(0, 64, 128, 0.8) url('../image/2.jpg') no-repeat center center;
+  animation: slideDown 1s ease-out;
+  max-height: 300px;             
+  overflow: hidden;
+}
+header h1 {
+  font-size: 2.3rem;
+  color: #fff;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+}
+header h2 {
+  font-size: 1.8rem;
+  color: #fff;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+}
+header p {
+  margin-top: 0.5rem;
+  font-size: 1.5rem;
+  color: #eef;
+}
+.logo-right {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 7rem;
+  padding: 1rem 0;
+  background: #4CAF50;
+}
+nav .btn {
+  background: #388e3c;
+  color: #fff;
+  padding: 0.8rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+nav .btn:hover {
+  background: #0059b3;
+}
+label {
+  display: block;
+  margin-bottom: 6px;
+  color: #333;
+  font-weight: bold;
+}
+input[type="text"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+  margin-bottom: 1rem;
+}
+textarea {
+  resize: vertical;
+}
+button {
+  background-color: #0073e6;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+button:hover {
+  background-color: #004080;
+}
+.message {
+  color: green;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+.back-link {
+  display: inline-block;
+  margin-top: 1rem;
+  background-color:  #004080;
+  color:  #004080;
+  padding: 8px 16px;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.3s;
+}
+.back-link:hover {
+  background-color:  #004080;
+}
+footer {
+   background: rgba(0,64,128,0.8);
+  padding: 0.5rem;             
+  line-height: 1.3;
+  text-align: center;
+  color: #fff;
+  margin-top: auto; 
+}
+footer p,
+footer a {
+  margin: 0.2rem 0;           
+}
+footer p:first-child {
+  margin-top: 0;            
+}
+
+footer p:last-child {
+  margin-bottom: 0;            
+}

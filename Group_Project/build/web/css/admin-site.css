@@ -1,0 +1,168 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 3, 2025, 12:33:03 AM
+    Author     : Fawas
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: url('../image/logo9.jpg') no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: #333;
+}
+header {
+  padding: 1rem 1rem;           
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+   background: rgba(0, 64, 128, 0.8) url('../image/2.jpg') no-repeat center center;
+  animation: slideDown 1s ease-out;
+  max-height: 300px;            
+  overflow: hidden;
+}
+header h1 {
+  font-size: 2.3rem;
+  color: #fff;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+}
+header h2 {
+  font-size: 1.8rem;
+  color: #fff;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+}
+header p {
+  margin-top: 0.5rem;
+  font-size: 1.5rem;
+  color: #eef;
+
+}
+.logo-right {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+.container {
+  width: 90%;
+  max-width: 960px;
+  margin: 2rem auto;
+  background: rgba(255,255,255,0.95);
+  border-radius: 6px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  animation: fadeIn 0.6s ease-out;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.btn, button {
+  background: #004080;
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.btn:hover, button:hover {
+  background: #0059b3;
+}
+a {
+  color: #004080;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+}
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 0.6rem;
+}
+table th {
+  background: #388e3c;
+  color: #fff;
+  text-align: center;
+}
+table tr:nth-child(even) {
+  background: #f7f7f7;
+}
+form label {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-weight: bold;
+  color: #003366;
+}
+form input[type="text"],
+form input[type="email"],
+form input[type="password"],
+form input[type="number"],
+form textarea,
+form select {
+  width: 100%;
+  padding: 0.6rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+.dashboard-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+footer {
+  margin-top: auto;
+  background: rgba(0,51,102,0.9);
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 7rem;          
+  padding: 0.5rem 0;    
+  background: #4CAF50;
+    min-height: 3rem;
+}
+nav .btn {
+  background: #388e3c;
+  color: #fff;
+  padding: 0.8rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+nav .btn:hover {
+  background: #0059b3;
+}
