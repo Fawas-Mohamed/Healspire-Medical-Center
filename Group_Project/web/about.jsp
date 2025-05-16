@@ -1,8 +1,3 @@
-<%-- 
-    Document   : welcome
-    Created on : Apr 27, 2025, 11:37:20 AM
-    Author     : Fawas
---%>
 
 <%@ page contentType="text/html; charset=UTF-8" language="java" %>
 <!DOCTYPE html>
@@ -52,8 +47,6 @@
     Your browser does not support the video tag.
   </video>
 </div>
-
-
     <section class="about-section">
       <h2>Core Values</h2>
       <ul>
