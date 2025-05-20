@@ -1,0 +1,167 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: url('../image/logo9.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+header {
+  padding: 1rem 1rem;            
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+   background: rgba(0, 64, 128, 0.8) url('../image/2.jpg') no-repeat center center;
+  animation: slideDown 1s ease-out;
+  max-height: 500px;            
+  overflow: hidden;
+}
+header h1 {
+  font-size: 2.3rem;
+  color: #fff;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+}
+header h2 {
+  margin: 0;                     
+  padding: 0;                    
+  line-height: 1.2;              
+  font-size: 1.8rem; 
+  color: #fff;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+}
+header p {
+  margin-top: 0.5rem;
+  font-size: 1.5rem;
+  color: #eef;
+
+}
+.logo-right {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+.form-container {
+  display: flex;
+  max-width: 950px;
+  width: 90%;
+  background: #fff;
+  margin: 2rem auto;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+.form-left {
+  flex: 0.5;
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.form-left h2 {
+  color: #003366;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.form-group {
+  margin-bottom: 1.2rem;
+}
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #003366;
+}
+input,
+select {
+  width: 100%;
+  padding: 0.9rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  background-color: #f0f4ff;
+}
+input[type="submit"],
+button {
+  width: 100%;
+  margin-top: 1.2rem;
+  background: #003366;
+  color: #fff;
+  padding: 1rem;
+  border: none;
+  font-size: 1.1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+input[type="submit"]:hover,
+button:hover {
+  background: #0056b3;
+}
+p a {
+  display: block;
+  margin-top: 1rem;
+  text-align: center;
+  color: #003366;
+  font-weight: bold;
+  text-decoration: none;
+}
+p a:hover {
+  text-decoration: underline;
+}
+.form-image {
+  flex: 0.5;
+  background: url('../image/patientlog.jpg') no-repeat center center;
+  background-size: cover;
+  min-height: 500px;
+}
+footer {
+  margin-top: auto;
+  background-color: #003366;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
+.instructions {
+  background: rgba(255, 255, 255, 0.95);
+  border-left: 4px solid #004080;
+  padding: 1.5rem;
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 900px;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.instructions h3 {
+  color: #004080;
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.5rem;
+}
+
+.instructions ul {
+  list-style: disc inside;
+  line-height: 1.6;
+  color: #333;
+  padding-left: 1rem;
+}
+
+.instructions ul li {
+  margin-bottom: 0.75rem;
+}
