@@ -5,3 +5,19 @@
    This project uses MYSQL as backend and is developed in Java so it provides features such as platform independence, high performance and security. It is a web application which mainly uses SpringMVC and Hibernate frameworks. 
    
    It provides some enhanced features such as: an easy interface to add, remove employees as well as it provides PDF of prescription. Thus, reducing need to manually write  and  sign  by doctor.  <br>
+## Technologies Used-
+### 1. Front end Technologies:
+  - HTML
+  - CSS
+  
+### 3. Database:
+  - MySQL
+  
+### 4. Project management tool:
+  - Ant
+  
+### 5. Webserver:
+  - Apache Tomcat
+
+  ## Screenshots-
+  1. Homepage
