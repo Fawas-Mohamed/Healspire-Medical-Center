@@ -1,7 +1,7 @@
 <%-- 
     Document   : register
     Created on : Apr 27, 2025, 12:37:06 AM
-    Author     : Fawas
+    Author     : 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -53,7 +53,7 @@
       </div>
       <input type="submit" value="Register" />
     </form>
-    <p>Already have an account? <a href="login.jsp">Login here</a></p>
+    <p>Already have an account? <a href="${pageContext.request.contextPath}/patient/login.jsp" class="btn">Login here</a></p>
   </div>
   <div class="form-image"></div>
 </div>
