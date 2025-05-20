@@ -20,7 +20,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 @WebServlet("/doctor/view-reports1")
 public class doctorDownloadReportServlet extends HttpServlet {

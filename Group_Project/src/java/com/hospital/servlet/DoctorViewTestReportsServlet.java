@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 @WebServlet("/doctor/view-reports")
 public class DoctorViewTestReportsServlet extends HttpServlet {

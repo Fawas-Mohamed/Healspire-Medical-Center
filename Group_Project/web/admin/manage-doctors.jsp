@@ -1,7 +1,7 @@
 <%-- 
     Document   : manage-doctors
     Created on : Apr 27, 2025, 12:39:06?AM
-    Author     : Fawas
+    Author     : 
 --%>
 
 <%@ page import="java.util.List,com.hospital.model.Doctor" %>

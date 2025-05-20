@@ -23,7 +23,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 @WebServlet("/details")
 public class ViewDoctorsServlet extends HttpServlet {

@@ -6,7 +6,7 @@ package com.hospital.util;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 import java.sql.Connection;
 import java.sql.DriverManager;

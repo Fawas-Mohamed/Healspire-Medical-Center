@@ -1,7 +1,7 @@
 <%-- 
     Document   : error.jsp
     Created on : May 1, 2025, 11:48:37 PM
-    Author     : Fawas
+    Author     : 
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

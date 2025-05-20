@@ -6,7 +6,7 @@ package com.hospital.dao;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 import com.hospital.model.Nurse;
 import java.util.List;

@@ -18,7 +18,7 @@ import java.sql.Date;
 import java.util.List;
 /**
  *
- * @author Fawas
+ * @author 
  */
 @WebServlet("/manage-schedules")
 public class ManageSchedulesServlet extends HttpServlet {

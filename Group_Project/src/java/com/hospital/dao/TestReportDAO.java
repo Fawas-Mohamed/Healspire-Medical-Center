@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 public interface TestReportDAO {
   List<TestReport> findByPatientId(int patientId);

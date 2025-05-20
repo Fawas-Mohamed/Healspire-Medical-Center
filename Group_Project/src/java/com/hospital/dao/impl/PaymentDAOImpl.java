@@ -6,7 +6,7 @@ package com.hospital.dao.impl;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 import com.hospital.dao.PaymentDAO;
 import com.hospital.model.Payment;

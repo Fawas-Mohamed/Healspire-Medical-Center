@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  *
- * @author Fawas
+ * @author 
  */
 public class ScheduleDAOImpl implements ScheduleDAO {
   @Override
