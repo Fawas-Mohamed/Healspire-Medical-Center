@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 public class LogEntry {
     private int id;

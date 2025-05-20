@@ -6,7 +6,7 @@ package com.hospital.dao;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 import com.hospital.model.Doctor;
 import com.hospital.model.LogEntry;

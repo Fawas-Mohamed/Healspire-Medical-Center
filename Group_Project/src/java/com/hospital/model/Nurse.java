@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 // com.hospital.model.Nurse.java
 

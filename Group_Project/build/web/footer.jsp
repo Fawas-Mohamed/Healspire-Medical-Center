@@ -1,7 +1,7 @@
 <%-- 
     Document   : footer
     Created on : May 2, 2025, 4:43:30 PM
-    Author     : Fawas
+    Author     : 
 --%>
 
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>

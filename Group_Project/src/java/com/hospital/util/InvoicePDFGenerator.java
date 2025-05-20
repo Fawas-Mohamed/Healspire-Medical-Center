@@ -6,7 +6,7 @@ package com.hospital.util;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 import com.hospital.model.Invoice;
 import java.awt.Color;

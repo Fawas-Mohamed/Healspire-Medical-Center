@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 public interface ScheduleDAO {
   void save(Schedule s);

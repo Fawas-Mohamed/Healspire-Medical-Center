@@ -18,7 +18,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 @WebServlet("/appointment-details")
 public class AppointmentDetailsServlet extends HttpServlet {

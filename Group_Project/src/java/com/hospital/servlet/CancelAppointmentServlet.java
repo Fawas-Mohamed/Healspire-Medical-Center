@@ -12,7 +12,7 @@ import javax.servlet.http.*;
 import java.io.IOException;
 /**
  *
- * @author Fawas
+ * @author 
  */
 @WebServlet("/CancelAppointmentServlet")
 public class CancelAppointmentServlet extends HttpServlet {

@@ -6,7 +6,7 @@ package com.hospital.model;
 
 /**
  *
- * @author Fawas
+ * @author 
  */
 
 import java.sql.Time;
