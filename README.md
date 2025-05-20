@@ -9,6 +9,11 @@
 ### 1. Front end Technologies:
   - HTML
   - CSS
+
+### 2. Back end Technologies:
+  - Java 
+  - Servlet
+  - Jsp
   
 ### 3. Database:
   - MySQL
@@ -20,4 +25,35 @@
   - Apache Tomcat
 
   ## Screenshots-
-  1. Homepage
+  1. Homepage<br>
+  
+     ![homepage](https://github.com/Fawas-Mohamed/Healspire-Medical-Center/blob/1b1b4d49012581e5a50c1775117cd82d0333f3e0/Readmephotos/homepage.png)<br>
+     
+
+  2. Patient Register Page<br>
+  
+     ![patient login](https://github.com/Fawas-Mohamed/Healspire-Medical-Center/blob/1b1b4d49012581e5a50c1775117cd82d0333f3e0/Readmephotos/patient%20login.png)<br>
+     
+
+  3. Patient Dashboard Page
+
+     ![patient dashborad](https://github.com/Fawas-Mohamed/Healspire-Medical-Center/blob/1b1b4d49012581e5a50c1775117cd82d0333f3e0/Readmephotos/patient%20dashborad.png)
+     
+
+     ![Screenshot 2025-05-18 214720 - Copy](https://github.com/Fawas-Mohamed/Healspire-Medical-Center/blob/91bac6eb739fabd51cbbfa8d91c0467b655b05fc/Readmephotos/Screenshot%202025-05-18%20214720%20-%20Copy.png)
+
+
+  5. Doctor Login /Dashborad Page
+
+     ![doctorlogin](https://github.com/Fawas-Mohamed/Healspire-Medical-Center/blob/91bac6eb739fabd51cbbfa8d91c0467b655b05fc/Readmephotos/doctorlogin.png)
+
+     
+     ![doctordashbroad](https://github.com/Fawas-Mohamed/Healspire-Medical-Center/blob/91bac6eb739fabd51cbbfa8d91c0467b655b05fc/Readmephotos/doctordashbroad.png)
+
+     
+  7. Admin Login/ Dashboard Page
+
+     ![adminlogin](https://github.com/Fawas-Mohamed/Healspire-Medical-Center/blob/91bac6eb739fabd51cbbfa8d91c0467b655b05fc/Readmephotos/adminlogin.png)
+
+     
+     ![admin dashborad](https://github.com/Fawas-Mohamed/Healspire-Medical-Center/blob/91bac6eb739fabd51cbbfa8d91c0467b655b05fc/Readmephotos/admin%20dashborad.png)
