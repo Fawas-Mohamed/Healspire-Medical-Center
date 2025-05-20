@@ -1,9 +1,3 @@
-<%-- 
-    Document   : book-appointment
-    Created on : May 1, 2025, 2:02:38 PM
-    Author     : 
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ page import="java.util.List, com.hospital.model.Doctor, com.hospital.model.Schedule" %>
 <%@ page import="java.util.List" %>
@@ -94,13 +88,11 @@
   <footer>
        <section id="contact">
       <h2>Contact Us</h2>
-      <p><strong>Address:</strong> 123 Health Ave, Wellness City</p>
+      <p><strong>Address:</strong> MAHENWATHTHA, PITIPANA, HOMAGAMA, SRI LANKA</p>
       <p><strong>Phone:</strong> +1 (555) 123-4567</p>
       <p><strong>Email:</strong> info@ourhospital.com</p>
       <div id="map"><!-- Embed your map here --></div>
     </section>
       &copy; 2025 Hospital Management System — All Rights Reserved</footer>
-
-  <p><a href="<%= request.getContextPath() %>/admin/dashboard">Back to Admin Dashboard</a></p>
 </body>
 </html>
