@@ -1,7 +1,7 @@
 <%-- 
     Document   : doctor-details
     Created on : Apr 28, 2025, 1:35:50 PM
-    Author     : Fawas
+    Author     : 
 --%>
 
 <%@page import="com.hospital.model.Schedule"%>
