@@ -1,9 +1,3 @@
-<%-- 
-    Document   : dashboard
-    Created on : Apr 27, 2025, 12:37:46 AM
-    Author     : 
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ page import="javax.servlet.http.HttpSession" %>
 <!DOCTYPE html>
@@ -40,7 +34,7 @@
   <footer>
        <section id="contact">
       <h2>Contact Us</h2>
-      <p><strong>Address:</strong> 123 Health Ave, Wellness City</p>
+      <p><strong>Address:</strong> MAHENWATHTHA, PITIPANA, HOMAGAMA, SRI LANKA</p>
       <p><strong>Phone:</strong> +1 (555) 123-4567</p>
       <p><strong>Email:</strong> info@ourhospital.com</p>
       <div id="map"><!-- Embed your map here --></div>
@@ -49,4 +43,3 @@
   </footer>
 </body>
 </html>
-
