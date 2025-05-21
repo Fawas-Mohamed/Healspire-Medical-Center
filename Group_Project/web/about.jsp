@@ -1,8 +1,3 @@
-<%-- 
-    Document   : welcome
-    Created on : Apr 27, 2025, 11:37:20 AM
-    Author     : Fawas
---%>
 
 <%@ page contentType="text/html; charset=UTF-8" language="java" %>
 <!DOCTYPE html>
