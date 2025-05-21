@@ -1,8 +1,3 @@
-<%-- 
-    Document   : appointment-details
-    Created on : Apr 28, 2025, 6:25:21 PM
-    Author     : Fawas
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ page import="com.hospital.model.Appointment" %>
