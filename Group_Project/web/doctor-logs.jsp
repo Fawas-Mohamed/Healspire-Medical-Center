@@ -1,8 +1,3 @@
-<%-- 
-    Document   : doctor-logs
-    Created on : Apr 27, 2025, 12:42:30 AM
-    Author     : Fawas
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <html>
