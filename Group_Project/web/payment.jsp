@@ -1,8 +1,4 @@
-<%-- 
-    Document   : payment
-    Created on : Apr 28, 2025, 1:34:31 AM
-    Author     : Fawas
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
