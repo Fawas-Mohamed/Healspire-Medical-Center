@@ -1,8 +1,3 @@
-<%-- 
-    Document   : error.jsp
-    Created on : May 1, 2025, 11:48:37 PM
-    Author     : Fawas
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
