@@ -1,8 +1,3 @@
-<%-- 
-    Document   : header
-    Created on : May 2, 2025, 4:42:52 PM
-    Author     : Fawas
---%>
 
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <header style="background: rgba(0,51,102,0.85); padding: 1em; text-align: center; border-bottom: 4px solid #004080;">
